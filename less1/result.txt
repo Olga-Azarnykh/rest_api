@@ -1,0 +1,9 @@
+C:\Users\admin-pc\PycharmProjects\api\venv\Scripts\python.exe C:\Users\admin-pc\PycharmProjects\api\lesson1\task1.py
+mysql
+project
+python
+repo-github
+repo-gui
+rest_api
+ 
+Process finished with exit code 0
